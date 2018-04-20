@@ -1,0 +1,5 @@
+D:\Programming\Libraries\JSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+D:\Programming\Libraries\JSON\JSON\bin\Debug\JSON.dll
+D:\Programming\Libraries\JSON\JSON\bin\Debug\JSON.pdb
+D:\Programming\Libraries\JSON\JSON\obj\Debug\JSON.dll
+D:\Programming\Libraries\JSON\JSON\obj\Debug\JSON.pdb
